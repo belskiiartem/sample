@@ -11,7 +11,7 @@ public class SecondClassTest {
 
 	@Test
 	public void testEchoSomething() {
-			assertEquals("failed", second.EchoSomething());	
+			assertEquals("sss", second.EchoSomething());	
 	};
 
 }
